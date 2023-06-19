@@ -1,14 +1,14 @@
 {
   "name": "odyssey",
   "version": "1.2.0",
-  "description": "The boilerplate code to get started creating Cross-platform Desktop Apps with Electron and Svelte as front-end technology.",
+  "description": "",
   "private": false,
   "license": "MIT",
   "main": "main.js",
-  "author": "Souleh Shaikh <soulehshaikh99@gmail.com>",
+  "author": "",
   "build": {
     "icon": "public/favicon.png",
-    "productName": "Svelte and Electron App",
+    "productName": "Odyssey",
     "files": [
       "public/**/*",
       "main.js",
