@@ -1,5 +1,5 @@
 {
-  "name": "create-svelte-electron-app",
+  "name": "odyssey",
   "version": "1.2.0",
   "description": "The boilerplate code to get started creating Cross-platform Desktop Apps with Electron and Svelte as front-end technology.",
   "private": false,
